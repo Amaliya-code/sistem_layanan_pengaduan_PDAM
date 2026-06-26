@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -57,3 +58,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# sistem_layanan_pengaduan_PDAM
+Sistem Informasi Pengaduan Pelanggan PDAM Berbasis Web menggunakan Laravel. Aplikasi ini mendukung registrasi pelanggan, pengajuan pengaduan, verifikasi admin, penugasan petugas, pelacakan status secara real-time, notifikasi, serta pembuatan laporan untuk meningkatkan kualitas pelayanan pelanggan PDAM.
+>>>>>>> 1a2475e8837f4c09718f2a57312a5ab1f03b3224
